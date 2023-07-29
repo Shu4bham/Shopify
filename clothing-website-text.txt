@@ -82,10 +82,10 @@ img {src: brand5.png, alt: "Reebok"}
     .footer__title
 	"information"
     .footer__links
-	"📌 Jordan, Amman, Mecca St."
+	"📌 Sirsa , Haryana"
 	"🕐 Saturday - Thursday <br /> 9AM - 12PM"
-	"📞 +962 123 456 789"
-	"✉️ shopy@gmail.com"
+	"📞 +91 9813998824"
+	"✉️ shopify@gmail.com"
 
 .footer__col
     .footer__title
