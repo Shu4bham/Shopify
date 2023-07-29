@@ -13,7 +13,5 @@ Build a Clothing Website using **HTML**, **CSS** & **JavaScript**.
 * Used Scroll Reveal JS
 * Used Swiper JS
 
-![img](Clothing%20Website.png)
-
 
 <a href = "https://shu4bham-shopify.vercel.app/"> Try Shopify </a>
